@@ -23,7 +23,7 @@ const Chatbot = () => {
         showPoweredBy: false,
         theme: "prism",
         themeColor: "#2563eb",
-        stylesheet: "https://webchat-styler-css.botpress.app/prod/f9de560a-f942-4126-a79c-36f78710d360/v36502/style.css"
+        stylesheet: "https://webchat-styler-css.botpress.app/prod/f9de560a-f942-4126-a79c-36f78710d360/v39336/style.css"
         
 
       })
