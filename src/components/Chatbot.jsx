@@ -19,13 +19,10 @@ const Chatbot = () => {
         themeName: "prism",
         botName: "Departamento de Alumnos ",
         frontendVersion: "v1",
-        useSessionStorage: true,
-        showPoweredBy: false,
         theme: "prism",
         themeColor: "#2563eb",
-        stylesheet: "https://webchat-styler-css.botpress.app/prod/f9de560a-f942-4126-a79c-36f78710d360/v39336/style.css"
+        stylesheet: "https://webchat-styler-css.botpress.app/prod/1e927a87-1183-4b9f-88a7-b676f8dc82c6/v29221/style.css"
         
-
       })
     }
   }, [])
