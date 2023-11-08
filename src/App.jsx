@@ -6,8 +6,10 @@ function App() {
 
   return (
     <>
+    <div className="background">
       <h1>UNM</h1>
       <Chatbot />
+    </div>
     </>
   )
 }
